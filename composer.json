@@ -1,0 +1,20 @@
+{
+    "name": "linegg/validator",
+    "description": "PHP package for validating input",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Linegg\\Validator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "linyz",
+            "email": "linyuanzhi0701@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
